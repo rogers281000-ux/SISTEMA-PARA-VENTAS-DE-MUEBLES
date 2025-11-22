@@ -5,7 +5,7 @@
             <packagings>
                 <packaging>war</packaging>
                 <packaging>ear</packaging>
-                <packaging>ejb</packagin>
+                <packaging>ejb</packaging>
             </packagings>
             <goals>
                 <goal>package</goal>
